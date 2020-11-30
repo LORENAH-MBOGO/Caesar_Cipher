@@ -3,14 +3,16 @@ import org.junit.Test;
 
 import java.util.Scanner;
 
-public class DecryptTest extends TestCase {
+public class DecryptTest  {
     @Test
-    public void Decrypt(String ciphertext, int shift) {
-
-        ciphertext = "QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD";
-        shift = 1;
-        System.out.println(" ciphertext : " + ciphertext);
+    public  void main()
+    {
+        String text = "EXXEGOEXSRGI";
+        int shift = 4;
+        System.out.println("plaintext  : " + text);
+        System.out.println("int Shift : " );
+        System.out.println("plaintext: " );
     }
-    }
+}
 
 

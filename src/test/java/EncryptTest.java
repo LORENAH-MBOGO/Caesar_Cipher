@@ -1,11 +1,16 @@
 import junit.framework.TestCase;
 import org.junit.Test;
 
-public class EncryptTest extends TestCase {
+import java.util.Scanner;
+
+public class EncryptTest {
     @Test
-    public void Encrypt(String plaintext, int shift) {
-        plaintext = "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG";
-        shift =1;
-        System.out.println(" plaintext : " + plaintext);
+    public  void main()
+    {
+        String text = "ATTACKATONCE";
+        int shift = 4;
+        System.out.println("plaintext  : " + text);
+        System.out.println("int Shift : " );
+        System.out.println("ciphertext: " );
     }
-    }
+}
