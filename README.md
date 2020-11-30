@@ -27,7 +27,7 @@ No bugs.
 
 ## Usage and setup.
 To contribute , clone or download this repository (link in the section below) to your local machine.
-[Online repo (https://github.com/LORENAH-MBOGO/Caesar-Cipher)]
+[Online repo (https://github.com/LORENAH-MBOGO/Caesar_Cipher)]
 
 ## Setup instructions
 * Install Java Software Development Kit also known as Java-SDK
